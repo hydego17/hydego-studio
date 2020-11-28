@@ -81,6 +81,12 @@ export default createSchema({
           name: "link",
           type: "string",
         },
+        // Code
+        {
+          title: "Code",
+          name: "code",
+          type: "string",
+        },
       ],
     },
   ]),
