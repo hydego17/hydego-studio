@@ -1,1 +1,1 @@
-# Portfolio Sanity Studio
+# Hydego Sanity Studio
